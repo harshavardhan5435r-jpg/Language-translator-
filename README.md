@@ -29,7 +29,7 @@ GEMINI_API_KEY=your_key_here
 python3.12 app.py
 
 ## Live Demo
-Coming soon on Hugging Face Spaces!
+https://huggingface.co/spaces/HARSHAVARDHAN-99K/multi_language_translator
 
 ## Author
 Harsha Vardhan Potnuru
