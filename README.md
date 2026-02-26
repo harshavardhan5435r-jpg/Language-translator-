@@ -1,4 +1,4 @@
-# 🌍 Language Translator
+# 🌍 Muliti Language Translator
 
 An AI-powered language translator built with Google Gemini and Gradio.
 
