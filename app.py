@@ -18,7 +18,7 @@ def multi_language_translator(text, language):
             "max_output_tokens": 500,
         }
     )
-    return response
+    return response.text
 # Gradio UI
 demo = gr.Interface(
     fn=multi_language_translator,
